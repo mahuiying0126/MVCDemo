@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+target 'BLDemoForYYKit' do
+pod 'YYKit'
+pod 'AFNetworking'
+
+end
+
+
+
